@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Neon Spins 霓虹转轮老虎机游戏预览">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e1a"/>
+      <stop offset=".55" stop-color="#18223c"/>
+      <stop offset="1" stop-color="#2a1740"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffcc66"/>
+      <stop offset=".5" stop-color="#f472b6"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffcc66"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity=".18" stroke="#5eead4" stroke-width="1">
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200"/>
+    <path d="M150 0v630M300 0v630M450 0v630M600 0v630M750 0v630M900 0v630M1050 0v630"/>
+  </g>
+
+  <text x="600" y="148" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="76" font-weight="800" fill="url(#title)">NEON SPINS</text>
+  <text x="600" y="205" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="30" fill="#a6b3d0" letter-spacing="8">霓虹转轮 · 免费 3 轴老虎机</text>
+
+  <rect x="300" y="250" width="600" height="260" rx="26" fill="#121a2e" stroke="url(#frame)" stroke-width="4"/>
+  <rect x="326" y="276" width="548" height="190" rx="14" fill="#070b16"/>
+  <rect x="344" y="292" width="164" height="158" rx="12" fill="#f8fafc"/>
+  <rect x="518" y="292" width="164" height="158" rx="12" fill="#f8fafc"/>
+  <rect x="692" y="292" width="164" height="158" rx="12" fill="#f8fafc"/>
+  <text x="426" y="398" text-anchor="middle" font-family="Segoe UI Emoji, sans-serif" font-size="92">💎</text>
+  <text x="600" y="398" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="92" font-weight="800" fill="#dc2626">7</text>
+  <text x="774" y="398" text-anchor="middle" font-family="Segoe UI Emoji, sans-serif" font-size="92">⭐</text>
+  <line x1="332" y1="371" x2="868" y2="371" stroke="#f472b6" stroke-width="3" opacity=".9"/>
+
+  <text x="600" y="552" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="26" fill="#eef2ff">虚拟积分 · 公开赔率 · 95.78% 理论回报率</text>
+  <text x="600" y="592" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="20" fill="#5eead4">无真实货币投注 · 无需注册 · 支持键盘操作</text>
+</svg>

@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+Disallow: /.git/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://vip-4.github.io/neon-spins-casino/sitemap.xml
